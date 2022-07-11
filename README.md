@@ -1,3 +1,3 @@
 # Desktopa
 
-https://hagarow.github.io/Desktopa/
+https://hagarow.github.io/Desktopa
