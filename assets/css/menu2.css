@@ -1,0 +1,37 @@
+.menu2 {
+    height: 84px;
+    position: relative;
+    border-bottom: 1px solid #000;
+    padding-top: 32px;
+}
+
+.menu2__titulo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+    color: #000;
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.menu2__links {
+    position: absolute;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 40%;
+}
+
+.menu2__links li {
+    padding: 8px;
+}
+
+.menu2__links li a {
+    color: #000;
+}
+
+.menu2__links li a:hover {
+    color: #305297;
+    font-weight: 500;
+}

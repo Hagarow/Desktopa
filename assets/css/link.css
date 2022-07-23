@@ -1,0 +1,16 @@
+a {
+    color: #000;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+a span {
+    text-decoration: underline;
+}
+
+a i {
+    margin-right: 8px;
+}

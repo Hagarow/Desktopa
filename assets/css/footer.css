@@ -1,0 +1,30 @@
+
+footer {
+    text-align: center;
+    border-top: 1px solid #000;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.contato {
+    margin: 0;
+    padding: 0;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    border-bottom: none;
+}
+
+footer ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+}
+
+.footer__copyright {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}

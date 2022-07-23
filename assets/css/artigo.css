@@ -1,0 +1,28 @@
+.artigo {
+    padding-bottom: 24px;
+    width: 779px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.artigo__titulo {
+    width: 416px;
+    font-weight: 400;
+    font-size: 26px;
+    color: #000;
+}
+
+.artigo__paragrafo {
+    font-size: 20px;
+    color: #000;
+}
+
+.dicas__extra {
+    color: #000;
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
